@@ -9,5 +9,6 @@
 - [x] OOP 2-2
 - [x] OOP 2-3
 - [x] OOP 2-4
-- [ ] OOP 3-1
-- [ ] OOP 3-2
+- [x] OOP 3-1
+- [x] OOP 3-2
+- [ ] OOP 3-3
